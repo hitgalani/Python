@@ -10,3 +10,4 @@ print("Your CGPE is:", cgpe)
 print(type(name))
 print(type(age))
 print(type(cgpe))
+
